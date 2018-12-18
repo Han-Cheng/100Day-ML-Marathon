@@ -1,2 +1,2 @@
-# Kaggle_100days
+# 100Day-ML-Marathon
 Competition hold by: https://ai100.cupoy.com/
